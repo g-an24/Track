@@ -25,12 +25,14 @@ The primary objective of this repository is to provide a hands-on approach to im
 - **Lane Detection (Future Work)**: A script and approach for detecting lanes on a road using computer vision techniques.
 
 ## Project Structure
+
+```plaintext
 Track/
 │
-├── Behavioral_Cloning1.ipynb # Notebook for the behavioral cloning project
-├── Traffic_Signs.ipynb # Notebook for traffic sign recognition
-├── drive.py # Python script to test the driving model
-├── lanes.py # Python script (in development) for lane detection
-├── model.h5 # Pre-trained model used in behavioral cloning
-├── requirements.txt # List of dependencies
-└── README.md # Project documentation
+├── Behavioral_Cloning1.ipynb      # Notebook for the behavioral cloning project
+├── Traffic_Signs.ipynb            # Notebook for traffic sign recognition
+├── drive.py                       # Python script to test the driving model
+├── lanes.py                       # Python script (in development) for lane detection
+├── model.h5                       # Pre-trained model used in behavioral cloning
+├── requirements.txt               # List of dependencies
+└── README.md                      # Project documentation
