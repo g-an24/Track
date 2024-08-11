@@ -22,7 +22,7 @@ The primary objective of this repository is to provide a hands-on approach to im
 - **Behavioral Cloning**: A deep learning model that mimics human driving behavior using a convolutional neural network trained on a dataset of driving videos.
 - **Traffic Sign Recognition**: A classification model trained to recognize various traffic signs from images.
 - **Regression Analysis**: Includes multiple regression models to explore relationships between variables in datasets.
-- **Lane Detection (Future Work)**: A script and approach for detecting lanes on a road using computer vision techniques.
+- **Lane Detection**: A script and approach for detecting lanes on a road using computer vision techniques.
 
 ## Project Structure
 
