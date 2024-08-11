@@ -1,4 +1,4 @@
-# Track
+# Lane Detection and Traffic Sign Detection - Self Driving Car Simulator
 
 This repository contains a collection of Jupyter notebooks and Python scripts designed to tackle various machine learning tasks. These tasks include behavioral cloning for autonomous driving, regression analysis, and traffic sign recognition, among others.
 
